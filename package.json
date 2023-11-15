@@ -1,0 +1,29 @@
+{
+  "name": "mx.utxj.ti.dmi.nearbygames",
+  "version": "1.0.0",
+  "description": "API Rest para realizar las operaciones CRUD a una base de datos relacional, del proyecto de videojuego de carreras 2D",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "MySQL",
+    "Sequelize",
+    "Express"
+  ],
+  "author": "Uriel200931 UTXJ",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.34.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
