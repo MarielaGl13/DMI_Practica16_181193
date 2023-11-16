@@ -10,12 +10,12 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
 ## 10 A
-## Implementación de actores de peliculas y series de Tv
+## Creación del modelo jugadores e implementación de búsqueda de todos los jugadores existentes
 &nbsp;
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 16: Creacion de una Api Rest para la aplicacion del videojuego. |
+| Nombre  |  Práctica 16: Creación del modelo jugadores e implementación de búsqueda de todos los jugadores existentes. |
 | Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, el cual se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada. Dicha API se ocupara para el juego guardianes de la flora|
 |  Fecha de Actividad  |  15 de noviembre del 2023  |
 
