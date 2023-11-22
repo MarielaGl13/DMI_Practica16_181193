@@ -22,13 +22,11 @@
 &nbsp;
 &nbsp;
 
-## Screenshot 
+## Screenshot del Modelo
 
-|  SS de Peticiones| SS de Peticiones |    
-| :------------: | :------------: | 
-|  <img src="https://i.postimg.cc/gjx3TSzm/Whats-App-Image-2023-11-10-at-10-14-56.jpg"/> | <img src="https://i.postimg.cc/YS8gqKjt/Whats-App-Image-2023-11-10-at-10-15-29.jpg"/>  |
-|  <img src="https://i.postimg.cc/kDrRh7Yv/Whats-App-Image-2023-11-10-at-10-16-01.jpg"/> | <img src="https://i.postimg.cc/DzCgpbrQ/Whats-App-Image-2023-11-10-at-10-16-59.jpg"/> |
-|  <img src="https://i.postimg.cc/d39DnGdw/Whats-App-Image-2023-11-10-at-10-16-35.jpg"/> | <img src="https://i.postimg.cc/FR5R4TVh/Whats-App-Image-2023-11-10-at-10-17-31.jpg"/>  |
+[![modelo.png](https://i.postimg.cc/wjC6BWWS/modelo.png)](https://postimg.cc/68hsjhx0)
+
+
 &nbsp;
 &nbsp;
 
